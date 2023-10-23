@@ -1,0 +1,1 @@
+Using this application, I learned about routing in react using react-router-dom. This multi-paged app includes navigation between pages, dynamic routes, data fetching with loaders, custom error handling, data submission with action functions, deferred data fetcher, and conditional UI based on the status of fetching. 
